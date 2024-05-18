@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Owen</h1>
 <h3 align="center">Android App Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **SIMPUS (PT PLN Project)**
+- 🔭 I’m currently working on --
 
-- 🌱 I’m currently learning **Android Jetpack Compose**
+- 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
